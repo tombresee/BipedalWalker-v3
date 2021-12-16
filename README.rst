@@ -11,7 +11,7 @@ Reinforcement Machine Learning - Bipedal Walker
 **What we want:**
 
 .. image:: ENTER/images/First_Order_AT-ST.png
-  :width: 400
+  :width: 150
   :alt: Alternative text
 
 
