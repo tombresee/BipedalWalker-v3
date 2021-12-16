@@ -12,12 +12,14 @@ What we don't want
 
 
 .. image:: ENTER/images/First_Order_AT-ST.png
-  :width: 400
+  :width: 100
   :alt: Alternative text
 
 
 
-.. image:: ENTER/images/endor-star-wars.png
+
+
+.. image:: ENTER/images/endor-star-wars.gif
   :width: 400
   :alt: Alternative text
 
