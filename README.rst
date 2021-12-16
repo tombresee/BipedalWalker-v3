@@ -7,6 +7,44 @@ Reinforcement Machine Learning Capstone
 |
 
 
+What we don't want
+~~~~~~~~~~~~~~~~~~~
+
+
+.. image:: ENTER/images/First_Order_AT-ST.png
+  :width: 400
+  :alt: Alternative text
+
+
+
+.. image:: ENTER/images/endor-star-wars.png
+  :width: 400
+  :alt: Alternative text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Reference Links
 ~~~~~~~~~~~~~~~~~~~~~
 
