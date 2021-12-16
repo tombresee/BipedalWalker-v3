@@ -1,22 +1,23 @@
 
-Reinforcement Machine Learning Capstone
-#########################################
+Reinforcement Machine Learning - Bipedal Walker 
+#################################################
 
 
 |
 |
 
 
-What we don't want
-~~~~~~~~~~~~~~~~~~~
-
+**What we want:**
 
 .. image:: ENTER/images/First_Order_AT-ST.png
   :width: 100
   :alt: Alternative text
 
 
+|
 
+
+**What we don't want:**
 
 
 .. image:: ENTER/images/endor-star-wars.gif
@@ -25,20 +26,8 @@ What we don't want
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|
+|
 
 
 
