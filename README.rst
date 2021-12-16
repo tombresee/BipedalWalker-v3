@@ -7,10 +7,11 @@ Reinforcement Machine Learning - Bipedal Walker
 |
 
 
+
 **What we want:**
 
 .. image:: ENTER/images/First_Order_AT-ST.png
-  :width: 100
+  :width: 400
   :alt: Alternative text
 
 
@@ -30,6 +31,10 @@ Reinforcement Machine Learning - Bipedal Walker
 |
 |
 |
+
+[here](https://gym.openai.com/envs/BipedalWalker-v2/)
+
+
 
 
 
